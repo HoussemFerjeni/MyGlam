@@ -1,0 +1,70 @@
+  .home {
+            background-size: cover;
+            background-image: url("../images/home.png");
+
+            width: 100%;
+            height: 600px;
+        }
+
+        .home2 {
+            background-size: contain;
+            background-image: url("../images/end.png");
+
+            width: 100%;
+
+
+        }
+
+
+        .home1 {
+            background-size: cover;
+            background-image: url("../images/bg.png");
+
+            width: 100%;
+            height: 440px;
+        }
+
+        .home2 {
+            background-size: cover;
+            background-color: gainsboro;
+
+
+            width: 100%;
+            height: 600px;
+        }
+
+        .centered {
+            position: absolute;
+            top: 60%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .end {
+            position: absolute;
+            top: 150%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .row-e {
+            margin-top: 30px;
+        }
+
+        .row-l {
+            margin-top: 60px;
+
+        }
+
+        .row-xl {
+            margin-top: 150px;
+
+        }
+
+        .cen {
+            text-align: center;
+        }
+
+        .c {
+            background-color: whitesmoke;
+        }
